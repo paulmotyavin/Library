@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="Title">BIBLIOTHÈQUE</v:String>
+    <v:String x:Key="TextBox1">Entrez du texte:</v:String>
+    <v:String x:Key="Hint">Texte</v:String>
+    <v:String x:Key="Add">Ajouter</v:String>
+    <v:String x:Key="Edit">Changer</v:String>
+    <v:String x:Key="Remove">Supprimer</v:String>
+</ResourceDictionary>

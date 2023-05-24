@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="Title">КІТАПХАНА</v:String>
+    <v:String x:Key="TextBox1">Мәтінді енгізіңіз:</v:String>
+    <v:String x:Key="Hint">Мәтін</v:String>
+    <v:String x:Key="Add">Қосу</v:String>
+    <v:String x:Key="Edit">Өзгерту</v:String>
+    <v:String x:Key="Remove">Жою</v:String>
+</ResourceDictionary>

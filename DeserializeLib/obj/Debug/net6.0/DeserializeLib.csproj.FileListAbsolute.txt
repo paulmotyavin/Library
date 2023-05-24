@@ -1,0 +1,12 @@
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\bin\Debug\net6.0\DeserializeLib.deps.json
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\bin\Debug\net6.0\DeserializeLib.dll
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\bin\Debug\net6.0\DeserializeLib.pdb
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.csproj.AssemblyReference.cache
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.AssemblyInfoInputs.cache
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.AssemblyInfo.cs
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.csproj.CoreCompileInputs.cache
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.dll
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\refint\DeserializeLib.dll
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\DeserializeLib.pdb
+C:\Users\paulscriptum\source\repos\Library\DeserializeLib\obj\Debug\net6.0\ref\DeserializeLib.dll
