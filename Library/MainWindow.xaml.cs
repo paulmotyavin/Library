@@ -49,6 +49,7 @@ namespace Library
         {
             if (listbox.SelectedItem != null)
             {
+                list.RemoveAt(listbox.SelectedIndex);
                 TextTbx.Text = "";
                 Serialization.Serialize(list);
                 UpdateList();
