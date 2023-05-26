@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Media.Imaging;
 using DeserializeLib;
+using ThemesLib;
+using LocalizationLib;
 
 namespace Library
 {
@@ -76,38 +78,38 @@ namespace Library
             {
                 case 1:
                     LanguageImg.Source = new BitmapImage(new Uri("img/usa.png", UriKind.Relative));
-                    App.Language = "American";
+                    ChangeLanguage.Language = "American";
                     countLNG = 2;
                     break;
                 case 2:
                     LanguageImg.Source = new BitmapImage(new Uri("img/france.png", UriKind.Relative));
-                    App.Language = "French";
+                    ChangeLanguage.Language = "French";
                     countLNG = 3;
                     break;
                 
                 case 3:
                     LanguageImg.Source = new BitmapImage(new Uri("img/kazakhstan.png", UriKind.Relative));
-                    App.Language = "Kazakh";
+                    ChangeLanguage.Language = "Kazakh";
                     countLNG = 4;
                     break;
                 case 4:
                     LanguageImg.Source = new BitmapImage(new Uri("img/china.png", UriKind.Relative));
-                    App.Language = "Chinese";
+                    ChangeLanguage.Language = "Chinese";
                     countLNG = 5;
                     break;
                 case 5:
                     LanguageImg.Source = new BitmapImage(new Uri("img/spain.png", UriKind.Relative));
-                    App.Language = "Spanish";
+                    ChangeLanguage.Language = "Spanish";
                     countLNG = 6;
                     break;
                 case 6:
                     LanguageImg.Source = new BitmapImage(new Uri("img/norway.png", UriKind.Relative));
-                    App.Language = "Norwegian";
+                    ChangeLanguage.Language = "Norwegian";
                     countLNG = 7;
                     break;
                 case 7:
                     LanguageImg.Source = new BitmapImage(new Uri("img/russia.png", UriKind.Relative));
-                    App.Language = "Russian";
+                    ChangeLanguage.Language = "Russian";
                     countLNG = 1;
                     break;
             }
@@ -119,27 +121,27 @@ namespace Library
             {
                 case 1:
                     ThemesImg.Source = new BitmapImage(new Uri("img/green.png", UriKind.Relative));
-                    App.Theme = "GreenTheme";
+                    ChangeTheme.Theme = "GreenTheme";
                     countThm = 2;
                     break;
                 case 2:
                     ThemesImg.Source = new BitmapImage(new Uri("img/black.png", UriKind.Relative));
-                    App.Theme = "BlackTheme";
+                    ChangeTheme.Theme = "BlackTheme";
                     countThm = 3;
                     break;
                 case 3:
                     ThemesImg.Source = new BitmapImage(new Uri("img/violet.png", UriKind.Relative));
-                    App.Theme = "VioletTheme";
+                    ChangeTheme.Theme = "VioletTheme";
                     countThm = 4;
                     break;
                 case 4:
                     ThemesImg.Source = new BitmapImage(new Uri("img/white.png", UriKind.Relative));
-                    App.Theme = "WhiteTheme";
+                    ChangeTheme.Theme = "WhiteTheme";
                     countThm = 5;
                     break;
                 case 5:
                     ThemesImg.Source = new BitmapImage(new Uri("img/blue.png", UriKind.Relative));
-                    App.Theme = "BlueTheme";
+                    ChangeTheme.Theme = "BlueTheme";
                     countThm = 1;
                     break;
             }
